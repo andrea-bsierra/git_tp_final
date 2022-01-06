@@ -51,9 +51,9 @@ Faites donc un **commit** et **pushez** moi tout ça sur master (sur **votre** d
 ### Exercice 3 : Travail d'équipe ! (5 points)
 
 Pour cet exercice, je vais appeler les collaborateurs :
-* collaborateur 1
-* collaborateur 2
-* collaborateur 3
+* collaborateur 1 : BARAHONA Andrea
+* collaborateur 2 : SCHWEITZER Stephan
+* collaborateur 3 : OMARY Saad Eddine
 
 selon l'ordre dans lequel vous avez mis vos noms dans la présentation.
 
